@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitHub Statistikası
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EchosDev&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchosDev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎯 Cari Proyektlər
 
 🔨 **Layihə 1**  
