@@ -28,7 +28,7 @@ Mən bir **full-stack developer** - Öyrenen bir tələbəyəm və aşağıdakı
 ## 📞 Mənə Əlaqə Saxlayın
 
 - 📧 Email: elmirrfamill@gmail.com
-- 💼 LinkedIn: [Profiliniz](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Profiliniz](https://www.linkedin.com/in/elmir-shikhaliyev-8619612b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
