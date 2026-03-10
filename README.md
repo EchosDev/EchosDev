@@ -27,7 +27,7 @@ Mən bir **full-stack developer** - Öyrenen bir tələbəyəm və aşağıdakı
 
 ## 📞 Mənə Əlaqə Saxlayın
 
-- 📧 Email: your.email@example.com
+- 📧 Email: elmirrfamill@gmail.com
 - 💼 LinkedIn: [Profiliniz](https://linkedin.com/in/yourprofile)
 
 ---
