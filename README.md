@@ -47,8 +47,7 @@ https://github.com/username/project2
 ## 📫 Mənimlə Əlaqə
 
 📧 **Email:** elmirrfamill@gmail.com  
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/elmir-shikhaliyev-8619612b5
+💼 **LinkedIn:**  https://www.linkedin.com/in/elmir-shikhaliyev-8619612b5
 
 ---
 
