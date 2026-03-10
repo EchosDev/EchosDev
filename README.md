@@ -1,37 +1,64 @@
-# Salam 👋, Mən [Elmir]
+<h1 align="center">Salam 👋, Mən Elmir</h1>
+<h3 align="center">Full Stack Developer | Student</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/EchosDev?label=Follow&style=social)](https://github.com/EchosDev)
-
-## 🚀 Haqqımda
-
-Mən bir **full-stack developer** - Öyrenen bir tələbəyəm və aşağıdakı texnologiyalarla işləməyi sevirəm:
-- 💻 Web Development
-- 🔧 Backend Development
-
-## 🛠️ Texnologiyalar
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🎯 Cari Proyektlər
-
-- 🔨 [Layihə 1](https://github.com/username/project1) - Təsvirini yazın
-- 🔨 [Layihə 2](https://github.com/username/project2) - Təsvirini yazın
-
-## 📚 Öyrəndiklərim
-
-- Web Development Best Practices
-- Backend With C#
-
-## 📞 Mənə Əlaqə Saxlayın
-
-- 📧 Email: elmirrfamill@gmail.com
-- 💼 LinkedIn: [Profiliniz](https://www.linkedin.com/in/elmir-shikhaliyev-8619612b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<p align="center">
+<a href="https://github.com/EchosDev">
+<img src="https://img.shields.io/github/followers/EchosDev?label=Follow&style=social">
+</a>
+</p>
 
 ---
 
-⭐️ *Layihələrimə baxmağı unutmayın!*
+## 🚀 Haqqımda
+
+- 🎓 Mən **full-stack developer olmağa çalışan tələbəyəm**
+- 💻 **Web Development** və **Backend Development** ilə maraqlanıram
+- ⚡ Yeni texnologiyalar öyrənməyi və layihələr qurmağı sevirəm
+- 🎯 Hal-hazırda **C# Backend və Web Development** öyrənirəm
+
+---
+
+## 🛠️ Texnologiyalar və Alətlər
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,python,git,vscode,github" />
+</p>
+
+---
+
+## 📊 GitHub Statistikası
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EchosDev&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchosDev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Cari Proyektlər
+
+🔨 **Layihə 1**  
+https://github.com/username/project1  
+
+🔨 **Layihə 2**  
+https://github.com/username/project2  
+
+---
+
+## 📚 Hal-hazırda Öyrəndiklərim
+
+- 🌐 Advanced Web Development
+- ⚙️ Backend Development with **C#**
+- 🗄️ Database və API Development
+
+---
+
+## 📫 Mənimlə Əlaqə
+
+📧 **Email:** elmirrfamill@gmail.com  
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/elmir-shikhaliyev-8619612b5
+
+---
+
+⭐ **Profilimə baxdığınız üçün təşəkkür edirəm!**
