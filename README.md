@@ -29,7 +29,7 @@
 ## 🎯 Cari Proyektlər
 
 🔨 **Layihə 1**  
-https://github.com/username/project1  
+https://github.com/EchosDev/ConsoleApp
 
 🔨 **Layihə 2**  
 https://github.com/username/project2  
